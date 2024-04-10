@@ -1,4 +1,4 @@
-# Movie Box Office Gross Prediction
+# Machine Learning Approach for Movie Box Office Revenue Forecasting
 The objective of this project is to develop a predictive model that can estimate the box office gross revenue of movies based on various attributes and indicators. Two datasets have been used for the same, namely "tmdb_5000_movies.csv" and "tmdb_5000_credits.csv". These datasets have been prepared by scraping movie-related data from the IMDB website, covering a time span from 1916 to 2017.
 
 To predict the revenue of movies, these datasets were utilized along with various machine learning models. This prediction can assist various stakeholders in the film industry, including production companies, distributors, and investors, to make informed decisions about resource allocation, marketing strategies, and revenue forecasting.
